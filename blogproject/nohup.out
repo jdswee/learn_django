@@ -1,0 +1,7 @@
+[2018-05-23 23:02:24 -0400] [1478] [INFO] Starting gunicorn 19.8.1
+[2018-05-23 23:02:24 -0400] [1478] [INFO] Listening at: unix:/tmp/demo.leeqiang.site.socket (1478)
+[2018-05-23 23:02:24 -0400] [1478] [INFO] Using worker: sync
+[2018-05-23 23:02:24 -0400] [1481] [INFO] Booting worker with pid: 1481
+[2018-05-23 23:02:44 -0400] [1478] [INFO] Handling signal: int
+[2018-05-24 11:02:44 +0800] [1481] [INFO] Worker exiting (pid: 1481)
+[2018-05-23 23:02:44 -0400] [1478] [INFO] Shutting down: Master
